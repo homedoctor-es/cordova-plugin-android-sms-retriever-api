@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-android-sms-retriever-api",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Cordova plugin to enable single SMS reception in Android using the SMS Retriever API",
   "cordova": {
     "id": "cordova-plugin-android-sms-retriever-api",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jlorente/cordova-plugin-android-sms-retriever-api"
+    "url": "https://github.com/homedoctor-es/cordova-plugin-android-sms-retriever-api"
   },
   "bugs": {
-    "url": "https://github.com/jlorente/cordova-plugin-android-sms-retriever-api/issues"
+    "url": "https://github.com/homedoctor-es/cordova-plugin-android-sms-retriever-api/issues"
   },
   "keywords": [
     "cordova",
